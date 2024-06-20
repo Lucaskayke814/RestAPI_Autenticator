@@ -1,5 +1,3 @@
-
-
 ---
 
 # Projeto de Autenticação com Spring Boot 
@@ -166,6 +164,7 @@ Este projeto é um sistema de autenticação básico que utiliza Spring Boot par
 
 ![Captura de tela 2024-06-20 193312](https://github.com/Lucaskayke814/RestAPI_Autenticator/assets/125411283/17ad7020-79a0-4b53-9393-4c79e4678a8e)
 
+![image](https://github.com/Lucaskayke814/RestAPI_Autenticator/assets/125411283/f0d920ff-9798-48ad-a9c2-d7e8ab331bbd)
 
 ## Contato
 
